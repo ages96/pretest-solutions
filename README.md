@@ -7,9 +7,13 @@ Repository ini berisi solusi untuk problem solving pretest yang mencakup tiga ma
 3. Highest Palindrome
 
 ## Struktur Repository
-- `weightedStrings.php`
-- `isBalanced.php`
-- `highestPalindrome.php`
+- `weightedStringsSoal1.php`
+- `weightedStringsSoal2.php`
+- `isBalancedSoal1.php`
+- `isBalancedSoal2.php`
+- `highestPalindromeSoal1.php`
+- `highestPalindromeSoal2.php`
+- Folder screenshots/ berisi screenshot output dari masing-masing file kode.
 
 ## Cara Menggunakan
 1. Clone repository ini.
