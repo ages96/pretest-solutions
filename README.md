@@ -8,12 +8,22 @@ Repository ini berisi solusi untuk problem solving pretest yang mencakup tiga ma
 
 ## Struktur Repository
 - `weightedStringsSoal1.php`
+![Weighted Strings Soal 1](result/weightedStringsSoal1.png)
+
 - `weightedStringsSoal2.php`
+![Weighted Strings Soal 2](result/weightedStringsSoal2.png)
+
 - `isBalancedSoal1.php`
+![Balanced Bracket Soal 1](result/isBalancedSoal1.png)
+
 - `isBalancedSoal2.php`
+![Balanced Bracket Soal 2](result/isBalancedSoal2.png)
+
 - `highestPalindromeSoal1.php`
+![Highest Palindrome Soal 1](result/highestPalindromeSoal1.png)
+
 - `highestPalindromeSoal2.php`
-- Folder screenshots/ berisi screenshot output dari masing-masing file kode.
+![Highest Palindrome Soal 2](result/highestPalindromeSoal2.png)
 
 ## Cara Menggunakan
 1. Clone repository ini.
